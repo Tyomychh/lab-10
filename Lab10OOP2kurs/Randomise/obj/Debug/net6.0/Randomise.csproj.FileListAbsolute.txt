@@ -1,0 +1,15 @@
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Randomise\bin\Debug\net6.0\Randomise.exe
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Randomise\bin\Debug\net6.0\Randomise.deps.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Randomise\bin\Debug\net6.0\Randomise.runtimeconfig.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Randomise\bin\Debug\net6.0\Randomise.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Randomise\bin\Debug\net6.0\Randomise.pdb
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Randomise\obj\Debug\net6.0\Randomise.csproj.AssemblyReference.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Randomise\obj\Debug\net6.0\Randomise.GeneratedMSBuildEditorConfig.editorconfig
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Randomise\obj\Debug\net6.0\Randomise.AssemblyInfoInputs.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Randomise\obj\Debug\net6.0\Randomise.AssemblyInfo.cs
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Randomise\obj\Debug\net6.0\Randomise.csproj.CoreCompileInputs.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Randomise\obj\Debug\net6.0\Randomise.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Randomise\obj\Debug\net6.0\refint\Randomise.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Randomise\obj\Debug\net6.0\Randomise.pdb
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Randomise\obj\Debug\net6.0\Randomise.genruntimeconfig.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Randomise\obj\Debug\net6.0\ref\Randomise.dll

@@ -1,0 +1,15 @@
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Publication\bin\Debug\net6.0\Publication.exe
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Publication\bin\Debug\net6.0\Publication.deps.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Publication\bin\Debug\net6.0\Publication.runtimeconfig.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Publication\bin\Debug\net6.0\Publication.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Publication\bin\Debug\net6.0\Publication.pdb
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Publication\obj\Debug\net6.0\Publication.csproj.AssemblyReference.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Publication\obj\Debug\net6.0\Publication.GeneratedMSBuildEditorConfig.editorconfig
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Publication\obj\Debug\net6.0\Publication.AssemblyInfoInputs.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Publication\obj\Debug\net6.0\Publication.AssemblyInfo.cs
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Publication\obj\Debug\net6.0\Publication.csproj.CoreCompileInputs.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Publication\obj\Debug\net6.0\Publication.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Publication\obj\Debug\net6.0\refint\Publication.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Publication\obj\Debug\net6.0\Publication.pdb
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Publication\obj\Debug\net6.0\Publication.genruntimeconfig.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab10\Lab10OOP2kurs\Publication\obj\Debug\net6.0\ref\Publication.dll
